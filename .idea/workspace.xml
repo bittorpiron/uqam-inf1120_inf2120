@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514bd09b-fcf4-4ec6-a9bd-9075a29f697f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LIB/forms-1.3.0-src.zip" afterPath="$PROJECT_DIR$/lib/forms-1.3.0-src.zip" />
-      <change beforePath="$PROJECT_DIR$/LIB/forms-1.3.0.jar" afterPath="$PROJECT_DIR$/lib/forms-1.3.0.jar" />
-      <change beforePath="$PROJECT_DIR$/Resources/CommandesChalets.txt" afterPath="$PROJECT_DIR$/resources/CommandesChalets.txt" />
-      <change beforePath="$PROJECT_DIR$/Resources/Inventaire.txt" afterPath="$PROJECT_DIR$/resources/Inventaire.txt" />
-      <change beforePath="$PROJECT_DIR$/Resources/Poids.txt" afterPath="$PROJECT_DIR$/resources/Poids.txt" />
-    </list>
+    <list default="true" id="514bd09b-fcf4-4ec6-a9bd-9075a29f697f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
