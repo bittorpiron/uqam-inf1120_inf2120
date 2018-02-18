@@ -5,5 +5,8 @@
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/exemplesvusenclasse/junit/tests/CalculatriceTest.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/exemplesvusenclasse/junit/tests/OperationsAvecNbArgumentsVariablesTest.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/labos/heritagepolymorhisme/tests/ProgrammePrincipal.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp1/adt/impl/CatalogueImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp2/adt/impl/Noeud.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/modele/Pneu.java" charset="ISO-8859-1" />
   </component>
 </project>
