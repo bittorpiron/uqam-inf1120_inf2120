@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="LIB">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/LIB/forms-1.3.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/LIB/forms-1.3.0-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/forms-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/forms-1.3.0-src.zip!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
