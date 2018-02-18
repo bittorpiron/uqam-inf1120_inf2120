@@ -110,13 +110,13 @@ public class AjoutModificationVue extends JDialog {
 		panneauSaisie.add(rdbtnEte);
 
 		//
-		JLabel lblLargueurs = new JLabel(ChainesDeTexte.ETIQUETTE_CHOIX_LARGUEUR);
-		panneauSaisie.add(lblLargueurs);
+		JLabel lblLargeurs = new JLabel(ChainesDeTexte.ETIQUETTE_CHOIX_LARGUEUR);
+		panneauSaisie.add(lblLargeurs);
 
 		comboBoxLargeur = new JComboBox<JLabel>();
 		comboBoxLargeur.setEditable(false);
 		comboBoxLargeur
-				.setModel(new DefaultComboBoxModel(ChainesDeTexte.LARGUEURS));
+				.setModel(new DefaultComboBoxModel(ChainesDeTexte.LARGEURS));
 		panneauSaisie.add(comboBoxLargeur);
 
 		//

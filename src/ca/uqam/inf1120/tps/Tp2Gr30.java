@@ -80,14 +80,14 @@ public class Tp2Gr30 {
         System.out.println("--------   (Programme qui test la faculte de clairvoyance de l'utilisateur)  --------");
         System.out.println("-------------------------------------------------------------------------------------");
      
-        System.out.println("\nLe programme propose aux utilisateurs d’essayer de deviner une carte tiree au hasard.\n");
-        System.out.println("No CHOIX\tDIVINATION\t\t\t\t\tNOMBRE D'ESSAIS");
-        System.out.println("   1\t\tLa couleur (noire ou rouge)\t\t\t1 essai");
+        System.out.println("\nLe programme propose aux utilisateurs d'essayer de deviner une carte tiree au hasard.\n");
+        System.out.println("No CHOIX\tDIVINATION\t\t\t\t\t\t\t\t\tNOMBRE D'ESSAIS");
+        System.out.println("   1\t\tLa couleur (noire ou rouge)\t\t\t\t\t1 essai");
         System.out.println("   2\t\tLe symbole (coeur, pique,trefle, carreau)\t2 essais");
         System.out.println("   3\t\tLa valeur (nombre de 1 a 13 inclusivement)\t5 essais");
     
         System.out.println("\nLe nombre des points en jeu pour chaque tirage est egale au nombre d'essais");
-        System.out.println("disponible pour le choix du test, et chaque essai rate, enleve un point au");     
+        System.out.println("disponible pour le choix du test, et chaque essai rate, enleve un point au");
         System.out.println("pointage de la divination.");        
         System.out.println("Tant que l'utilisateur veut jouer, le programme tire une nouvelle carte.");
         System.out.println("\n-------------------------------------------------------------------------------------");

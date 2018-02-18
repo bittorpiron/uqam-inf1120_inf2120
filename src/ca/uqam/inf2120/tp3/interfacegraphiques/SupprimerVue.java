@@ -74,8 +74,8 @@ public class SupprimerVue extends JDialog {
 		JPanel buttonPane = new JPanel();
 		buttonPane.setLayout(new FlowLayout(FlowLayout.RIGHT));
 		
-		JButton btnSupprimer = new JButton(ChainesDeTexte.ETIQUETTE_SUPRIMER);
-		btnSupprimer.setActionCommand(ChainesDeTexte.ETIQUETTE_SUPRIMER);	
+		JButton btnSupprimer = new JButton(ChainesDeTexte.ETIQUETTE_SUPPRIMER);
+		btnSupprimer.setActionCommand(ChainesDeTexte.ETIQUETTE_SUPPRIMER);
 		btnSupprimer.addActionListener(controleur);
 		buttonPane.add(btnSupprimer);				
 

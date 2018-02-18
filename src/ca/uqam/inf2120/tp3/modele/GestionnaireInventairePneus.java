@@ -115,7 +115,7 @@ public class GestionnaireInventairePneus {
 	 * @param saison
 	 *            dont les valeurs possibles: 1 = Hiver, 2 = Été, 3 = Hiver et
 	 *            Été
-	 * @return vrai si diametre et saison(s) recherche(s) egales
+	 * @return vrai si diametre et saison(s) recherche(s) égales
 	 */
 	private boolean estEgaleDiametre(int diametre, int saison, Pneu monPneu) {
 		return (monPneu.getDiametreRoue() == diametre)
@@ -132,7 +132,7 @@ public class GestionnaireInventairePneus {
 	 * est faux. b) inférieur ou égal au paramètre "nombrePneus" si le paramètre
 	 * "plusPetitOuEgal" est vrai.
 	 * 
-	 * @param nnombrePneus
+	 * @param nombrePneus
 	 *            Le nombre de pneus
 	 * @param plusPetitOuEgal
 	 *            Le flag qui indique le type de recherche selon le nombre de
@@ -143,7 +143,7 @@ public class GestionnaireInventairePneus {
 	 * @return Le tableau Liste (ArrayList) des pneus qui répondent au critère
 	 *         de recherche.
 	 */
-	public List<Pneu> rechercherParNombre(int nnombrePneus,
+	public List<Pneu> rechercherParNombre(int nombrePneus,
 			boolean plusPetitOuEgal, int saison) {
 		Pneu monPneau;
 		List<Pneu> pneusTrouves = new ArrayList<Pneu>();
@@ -153,7 +153,7 @@ public class GestionnaireInventairePneus {
 		while (it.hasNext()) {
 			monPneau = it.next();
 			nbrPneus = monPneau.obtenirNbCopies();
-			if (((plusPetitOuEgal && nbrPneus <= nnombrePneus) || (!plusPetitOuEgal && nbrPneus > nnombrePneus))
+			if (((plusPetitOuEgal && nbrPneus <= nombrePneus) || (!plusPetitOuEgal && nbrPneus > nombrePneus))
 					&& ((monPneau.getSaison().contentEquals(HIVER) && saison % 2 == 1) || (monPneau
 							.getSaison().contentEquals(ETE) && saison > 1))) {
 
@@ -166,7 +166,7 @@ public class GestionnaireInventairePneus {
 	}
 
 	/**
-	 * Rechercher tous les pneus selon la saisonou ou les saisons.
+	 * Rechercher tous les pneus selon la saison ou les saisons.
 	 * 
 	 * @param saison
 	 *            dont les valeurs possibles: 1 = Hiver, 2 = Été, 3 = Hiver et
@@ -198,7 +198,7 @@ public class GestionnaireInventairePneus {
 	}
 
 	/**
-	 * Supprime un pneu en diminuant le nombre et/ ou en le suprimer
+	 * Supprime un pneu en diminuant le nombre et/ ou en le supprimer
 	 * physiquement si le nombre de copies est <= 0.
 	 * 
 	 * @param unPneu

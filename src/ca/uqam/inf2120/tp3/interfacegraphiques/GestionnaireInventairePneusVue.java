@@ -285,7 +285,7 @@ public class GestionnaireInventairePneusVue extends JFrame {
 		btnModifier.addActionListener(controleur);
 		panneau.add(btnModifier);
 
-		btnSupprimer = new JButton(ChainesDeTexte.ETIQUETTE_SUPRIMER);
+		btnSupprimer = new JButton(ChainesDeTexte.ETIQUETTE_SUPPRIMER);
 		btnSupprimer.addActionListener(controleur);
 		panneau.add(btnSupprimer);
 

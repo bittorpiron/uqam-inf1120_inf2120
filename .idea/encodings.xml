@@ -6,7 +6,15 @@
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/exemplesvusenclasse/junit/tests/OperationsAvecNbArgumentsVariablesTest.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/labos/heritagepolymorhisme/tests/ProgrammePrincipal.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp1/adt/impl/CatalogueImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp1/adt/test/Alphabet.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp2/adt/impl/Noeud.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/AffichageControleur.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/AffichageVue.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/AjoutModificationVue.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/ChainesDeTexte.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusVue.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/SupprimerVue.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/modele/GestionnaireInventairePneus.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/modele/Pneu.java" charset="ISO-8859-1" />
   </component>
 </project>

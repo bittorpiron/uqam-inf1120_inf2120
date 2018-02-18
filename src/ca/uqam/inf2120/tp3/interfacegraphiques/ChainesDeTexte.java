@@ -32,7 +32,7 @@ public class ChainesDeTexte {
 	static final String ETIQUETTE_RECHERCHER = "Rechercher";
 	static final String ETIQUETTE_AJOUTER = "Ajouter";
 	static final String ETIQUETTE_MODIFIER = "Modifier";
-	static final String ETIQUETTE_SUPRIMER = "Supprimer";
+	static final String ETIQUETTE_SUPPRIMER = "Supprimer";
 	static final String ETIQUETTE_AFFICHER = "Afficher";
 	static final String ETIQUETTE_FERMER = "Fermer";	
 	static final String ETIQUETTE_ANNULER = "Annuler";
@@ -48,7 +48,7 @@ public class ChainesDeTexte {
 	static final String[] ENTETE_TABLEAU = {"Description", "Prix", "Nombre de pneus"};
 	
 	//ComboBox
-	static final String[] LARGUEURS = {"165", "175", "185", "215", "225", "265", "275", "285", "295"};
+	static final String[] LARGEURS = {"165", "175", "185", "215", "225", "265", "275", "285", "295"};
 	static final String[] HAUTEURS = {"50", "55", "60", "65", "70", "75", "80", "85"};
 	static final String[] DIAMETRES = {"14", "15", "16", "17", "18", "19", "20", "21"};	
 	static final String[] SAISON_PNEAU = { "d\'hiver ", "d\'été ", "" };

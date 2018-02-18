@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import ca.uqam.inf2120.tp3.modele.Pneu;
 
 /**
- * AffichageControleur: Le controleur (Controller) de la fênetre AffichageVu
+ * AffichageControleur: Le controleur (Controller) de la fenêtre AffichageVu
  * 
  * @author Victor Piron PIRV11026606 INF2120 Groupe 30 (Ismaël Doukoure)
  *         piron.victor@courrier.uqam.ca

@@ -87,6 +87,7 @@
       <w>chambres</w>
       <w>champignons</w>
       <w>charactere</w>
+      <w>chckbx</w>
       <w>chene</w>
       <w>choisi</w>
       <w>choisies</w>
@@ -143,6 +144,7 @@
       <w>criteres</w>
       <w>criture</w>
       <w>crivez</w>
+      <w>créér</w>
       <w>ction</w>
       <w>cution</w>
       <w>dansle</w>
@@ -182,6 +184,7 @@
       <w>devrait</w>
       <w>diaire</w>
       <w>diametre</w>
+      <w>diametres</w>
       <w>differente</w>
       <w>differentes</w>
       <w>differents</w>
@@ -205,6 +208,7 @@
       <w>ecran</w>
       <w>ecrase</w>
       <w>ecrivain</w>
+      <w>editables</w>
       <w>effectu</w>
       <w>effectuee</w>
       <w>effectués</w>
@@ -220,6 +224,7 @@
       <w>enduml</w>
       <w>enleve</w>
       <w>enseignant</w>
+      <w>entete</w>
       <w>entier</w>
       <w>entiere</w>
       <w>entiers</w>
@@ -304,6 +309,7 @@
       <w>inexisitant</w>
       <w>inferieur</w>
       <w>informations</w>
+      <w>infos</w>
       <w>initialis</w>
       <w>initialisant</w>
       <w>inserer</w>
@@ -388,6 +394,7 @@
       <w>nonbre</w>
       <w>noveau</w>
       <w>ntable</w>
+      <w>ntifiant</w>
       <w>numerateur</w>
       <w>numerique</w>
       <w>numero</w>
@@ -432,6 +439,7 @@
       <w>pirv</w>
       <w>planchers</w>
       <w>plein</w>
+      <w>pneau</w>
       <w>pneus</w>
       <w>ponse</w>
       <w>portes</w>
@@ -462,6 +470,7 @@
       <w>rateur</w>
       <w>rateurs</w>
       <w>rative</w>
+      <w>rdbtn</w>
       <w>recherch</w>
       <w>recherchee</w>
       <w>recherches</w>
@@ -505,6 +514,8 @@
       <w>saisit</w>
       <w>secondes</w>
       <w>selectionne</w>
+      <w>selectionné</w>
+      <w>selectionnés</w>
       <w>sentation</w>
       <w>sente</w>
       <w>sepa</w>
@@ -594,6 +605,7 @@
       <w>vert</w>
       <w>veuillez</w>
       <w>veut</w>
+      <w>videe</w>
       <w>vides</w>
       <w>virgon</w>
       <w>virt</w>

@@ -5,7 +5,7 @@ import ca.uqam.inf2120.tp1.adt.NombreCopies;
 /**
  * UQAM - Hiver 2014 - INF2120 - Groupe 30 - TP3
  * 
- * Classe Pneu : représente les informations sur un pneu de vehicules.
+ * Classe Pneu : représente les informations sur un pneu de véhicules.
  * 
  * @author Ismael Doukoure
  * 
@@ -218,15 +218,12 @@ public class Pneu implements NombreCopies {
 		// lorsqu'ils ont la même saison, la même largeur, la même hauteur,
 		// le même diamètre et le même prix.
 
-		if (identifiant == typePneau.getIdentifiant()
+		return identifiant == typePneau.getIdentifiant()
 				|| ((saison.contentEquals(typePneau.saison))
-						&& largeur == typePneau.getLargeur()
-						&& hauteur == typePneau.getHauteur() && diametreRoue == typePneau.getDiametreRoue()
-						&& prix == typePneau.getPrix())) {
-			return true;
-		}
+				&& largeur == typePneau.getLargeur()
+				&& hauteur == typePneau.getHauteur() && diametreRoue == typePneau.getDiametreRoue()
+				&& prix == typePneau.getPrix());
 
-		return false;
 	}
 
 	/*

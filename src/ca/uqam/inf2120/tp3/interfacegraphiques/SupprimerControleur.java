@@ -7,10 +7,10 @@ import ca.uqam.inf2120.tp3.modele.GestionnaireInventairePneus;
 import ca.uqam.inf2120.tp3.modele.Pneu;
 
 /**
- * SupprimerControleur: Le controleur (Controller) de la fenêtre SupprimerVue
+ * SupprimerControleur: Le controleur (Controller) de la fenï¿½tre SupprimerVue
  * pour le pattern MVC
  * 
- * @author Victor Piron PIRV11026606 INF2120 Groupe 30 (Ismaël Doukoure)
+ * @author Victor Piron PIRV11026606 INF2120 Groupe 30 (Ismaï¿½l Doukoure)
  *         piron_mardones.victor@courrier.uqam.ca
  * @version 2014-04-20
  * 
@@ -38,10 +38,10 @@ public class SupprimerControleur implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent event) {
 
-		// Obtenir la source de l'événement.
+		// Obtenir la source de l'ï¿½vï¿½nement.
 		String command = event.getActionCommand();
 
-		if (command == ChainesDeTexte.ETIQUETTE_SUPRIMER) {
+		if (command == ChainesDeTexte.ETIQUETTE_SUPPRIMER) {
 			String messageError = "";
 			try {
 				if (Integer.parseInt(vue.getChoixNbrPneus().getText()) <= 0) {
@@ -73,7 +73,7 @@ public class SupprimerControleur implements ActionListener {
 	}
 
 	/**
-	 * Changer la vue avec la description el le nbr de peus de la sélection
+	 * Changer la vue avec la description el le nbr de pneus de la sÃ©lection
 	 */
 	private void initialiserLaVue() {
 
@@ -89,7 +89,7 @@ public class SupprimerControleur implements ActionListener {
 	}
 
 	/**
-	 * @param pneu à supprimer
+	 * @param pneu ï¿½ supprimer
 	 * @return 
 	 */
 	private Pneu construirePneuASupprimer(Pneu pneu) {

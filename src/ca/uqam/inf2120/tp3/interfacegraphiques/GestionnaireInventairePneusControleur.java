@@ -13,9 +13,9 @@ import ca.uqam.inf2120.tp3.modele.Pneu;
 
 /**
  * GestionnaireInventairePneusControleur: Le controleur (Controller) de la
- * fenêtre principale GestionnaireInventairePneusVue pour le pattern MVC
+ * fenÃªtre principale GestionnaireInventairePneusVue pour le pattern MVC
  * 
- * @author Victor Piron PIRV11026606 INF2120 Groupe 30 (Ismaël Doukoure)
+ * @author Victor Piron PIRV11026606 INF2120 Groupe 30 (Ismael Doukoure)
  *         piron_mardones.victor@courrier.uqam.ca
  * @version 2014-04-20
  * 
@@ -28,7 +28,7 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 
 	private List<Pneu> liste;
 
-	// Constructeur avec la vue à controler comme paramètre
+	// Constructeur avec la vue Ã  controler comme paramÃ¨tre
 	GestionnaireInventairePneusControleur(GestionnaireInventairePneusVue uneVue) {
 		this.modele = new GestionnaireInventairePneus();
 		vue = uneVue;
@@ -65,27 +65,27 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 	}
 
 	/*
-	 * La redéfinition de l'unique méthode de l'interface
+	 * La redÃ©finition de l'unique mÃ©thode de l'interface
 	 * 
 	 * @see
 	 * java.awt.event.ActionListener#actionPerformed(java.awt.event.ActionEvent)
 	 */
 	public void actionPerformed(ActionEvent event) {
 
-		// Obtenir la source de l'événement.
+		// Obtenir la source de l'Ã©vÃ©nement.
 		Object source = event.getSource();
 
-		// Événement généré par le bouton "Ajouter"
+		// Ã‰vÃ©nement gÃ©nÃ©rÃ© par le bouton "Ajouter"
 		if (source == vue.getBtnAjouter()) {
 			new AjoutModificationVue(this, source);
 		} else if (source == vue.getBoutonRechercher()) {
 
-			// Événement généré par le bouton "Rechercher"
+			// Ã‰vÃ©nement gÃ©nÃ©rÃ© par le bouton "Rechercher"
 			refreshTableResultats();
 
 		} else if (source == vue.getBtnAfficher()) {
 
-			// Événement généré par le bouton "Afficher"
+			// Ã‰vÃ©nement gÃ©nÃ©rÃ© par le bouton "Afficher"
 			new AffichageVue(this);
 
 		} else if (source == vue.getBtnModifier()) {
@@ -126,8 +126,8 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 	 * selon le type de recherche
 	 * 
 	 * @param afficherMessage
-	 *            faux: on n'affiche pas de message (après dernier pneau effacé
-	 *            pour cete sélection ou Ajout)
+	 *            faux: on n'affiche pas de message (aprÃ¨s dernier pneau effacÃ©
+	 *            pour cette sÃ©lection ou Ajout)
 	 */
 	protected void recherchePneus(boolean afficherMessage) {
 
@@ -154,13 +154,13 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 
 			} else {
 
-				// valider la valeur entrée pour la recherche
+				// valider la valeur entrÃ©e pour la recherche
 				try {
 
 					int valeurRecherche = Integer.parseInt(vue
 							.getTextRechercher().getText());
 
-					// Pas des valeurs négatives
+					// Pas des valeurs nÃ©gatives
 					if (valeurRecherche <= 0) {
 						entreeValide = false;
 
@@ -169,7 +169,7 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 						if (vue.getRdbtnDiametre().isSelected()) {
 							
 							if (valeurRecherche >=14 && valeurRecherche <=21){
-								message += "le diamàtre " + valeurRecherche + "!";
+								message += "le diamÃ¨tre " + valeurRecherche + "!";
 								liste = modele.rechercherParDiametre(
 										valeurRecherche, saison);
 							}else{
@@ -179,8 +179,8 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 						} else {
 							message += "un nombre "
 									+ (vue.getRdbtnNombreInferieur()
-											.isSelected() ? "inférieur à "
-											: "supérieur à ") + valeurRecherche + "!";
+											.isSelected() ? "infÃ©rieur Ã  "
+											: "supÃ©rieur Ã  ") + valeurRecherche + "!";
 							liste = modele.rechercherParNombre(valeurRecherche,
 									vue.getRdbtnNombreInferieur().isSelected(),
 									saison);
@@ -191,7 +191,7 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 					entreeValide = false;
 				}
 
-				// Entrée non valide ( entier supérieur à 0)
+				// EntrÃ©e non valide ( entier superieur Ã  0)
 				if (!entreeValide && afficherMessage) {
 					vue.showMessageInfo(ChainesDeTexte.MESSAGE_ERREUR_RECHERCHE);
 					vue.getTextRechercher().setText("");
@@ -199,7 +199,7 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 			}
 		}
 
-		// ne pas afficher après ajouts ou suppression du dernier
+		// ne pas afficher aprÃ¨s ajouts ou suppression du dernier
 		if (entreeValide && liste.isEmpty() && afficherMessage) {
 
 			vue.showMessageInfo(message);
@@ -220,7 +220,7 @@ public class GestionnaireInventairePneusControleur implements ActionListener,
 	@Override
 	public void valueChanged(ListSelectionEvent e) {
 		int rows = vue.getTableResultats().getSelectedRow();
-		vue.permettreSelectionBoutons(rows > -1 ? true : false);
+		vue.permettreSelectionBoutons(rows > -1);
 	}
 
 }
