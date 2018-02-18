@@ -1,0 +1,6 @@
+Nom : Chandelier en acier
+Poids total : 60
+Nom : Cadre en argent sterling
+Poids total : 135
+Nom : Ensemble de verres de fantaisie
+Poids total : 42

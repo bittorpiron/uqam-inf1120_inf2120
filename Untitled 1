@@ -1,0 +1,39 @@
+@startuml
+interface NombreCopies {
+	void augmenter(int nbCopies)
+	void diminuer(int nbCopies)
+	int obtenirNbCopies()
+}
+class Pneu {
+	-int identifiant
+	-int diametreRoue
+	-int largeur
+	-int hauteur
+	-String saison
+	-float prix
+	-int nombrePneus
+	-{static}int numeroSequentiel
+	+Pneu(int identifiant, int nombrePneus)
+	+Pneu(int diametreRoue, int largeur, int hauteur, String saison, float prix, int nombrePneus)
+	+int getDiametreRoue()
+	+void setDiametreRoue(int diametreRoue)
+	+int getLargeur()
+	+void setLargeur(int largeur)
+	+int getHauteur()
+	+void setHauteur(int hauteur)
+	+String getSaison()
+	+void setSaison(String saison)
+	+float getPrix()
+	+void setPrix(float prix)
+	+void setIdentifiant(int identifiant)
+	+void setNombrePneus(int nombrePneus)
+	+int getIdentifiant()
+	+String construireDecription()
+	+boolean equals(Object obj)
+	+void augmenter(int nbCopies)
+	+void diminuer(int nbCopies)
+	+int obtenirNbCopies()
+}
+
+NombreCopies <|.. Pneu
+@enduml

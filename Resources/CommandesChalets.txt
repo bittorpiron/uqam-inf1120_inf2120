@@ -1,0 +1,13 @@
+
+Informations des Chalets:
+
+No Chalet: 1
+Plancher: 0 ( Chene ) 
+Armoires: 0 ( Chene ) 
+Couleur Exterieur: 0 ( Blanc ) 
+Fenetres: 0 ( Coulissante ) 
+Nbr Chambres: 2
+Modele: wdewdqwd
+Avec Foyer?: Vrai
+Fini?: Faux
+En Construction?: Faux
