@@ -5,18 +5,210 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="514bd09b-fcf4-4ec6-a9bd-9075a29f697f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ca/uqam/romains/Romains.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ca/uqam/romains/RomanNumeral.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ca/uqam/romains/TextIO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Refund_1_0_jar_with_dependencies.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/LIB.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/AjoutModificationVue.class" afterPath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/AjoutModificationVue.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/ChainesDeTexte.class" afterPath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/ChainesDeTexte.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusControleur.class" afterPath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusControleur.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/modele/GestionnaireInventairePneus.class" afterPath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/modele/GestionnaireInventairePneus.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/modele/Pneu.class" afterPath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/modele/Pneu.class" />
+      <change beforePath="$PROJECT_DIR$/CoursJavaUQAM.iml" afterPath="$PROJECT_DIR$/CoursJavaUQAM.iml" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/Reclamation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Animal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Cercle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Cercle3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Clavier.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/DemoDeuxDime.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Dessiner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Fraction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/GestionInventaire.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Hello.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Lab6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Labo2_1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Labo2_2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Labo2_3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/MonExcep.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/MonExcep2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Question.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/SecToJour.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/TpsTvqMethodes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/Version2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/lab6Formes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/lab6String.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/tableau.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/test/Test1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/test/TestAnimal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/test/TestExceptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/test/TestExceptions2A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/examplesetlabos/test/TesterCercle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/tps/Chalet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/tps/Tp1Gr30.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/tps/Tp2Gr30.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf1120/tps/Tp3Gr30.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/abr/ArbreBinaireQuelquesMethodes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/abr/NoeudABR.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/classesabstraites/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/classesabstraites/Etudiant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/classesabstraites/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/classesabstraites/tests/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/classobjet/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/classobjet/tests/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/Enseignant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/Etudiant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeA/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeA/Enseignant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeA/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeA/TestSurcharge.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeB/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeB/Enseignant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeB/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeB/TestSurcharge.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeC/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeC/Enseignant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeC/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeC/TestSurcharge.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeD/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeD/Enseignant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeD/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/surchargeD/TestSurcharge.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/heritage/tests/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfaces/LangueAnglaise.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfaces/LangueEspagnole.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfaces/LangueFrancaise.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfaces/LangueParlee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfaces/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreBorderLayout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreBouton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreBoutonRadio.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterne$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterne$Ecouteur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme1$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme1$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme2$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurClasseInterneAnonyme2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreEcouteurStrategieThis.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreFlowLayout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreGridLayout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/FenetreUnClient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/GestionJOptionPane.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/TestDesJOptionPane.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/mvc/CompteurControleur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/mvc/CompteurModele.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/interfacesgraphiques/mvc/CompteurVue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/junit/Calculatrice.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/junit/OperationsAvecNbArgumentsVariables.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/junit/tests/CalculatriceTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/junit/tests/OperationsAvecNbArgumentsVariablesTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/listechainee/Noeud.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/File.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/FileVideException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/Pile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/PileVideException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/impl/FileArrayListImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/impl/PileArrayListImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/impl/PileListeChaineeImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/impl/tests/FileArrayListImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/impl/tests/Livre.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tda/impl/tests/PileArrayListImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/techniquesrecherche/RechercheBinaire.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/techniquesrecherche/RechercheSequentielle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/exemplesvusenclasse/tris/TechniquesTri.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/Carre.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/Cercle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/FigureGeometrique.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/Rectangle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/tests/CarreTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/tests/CercleTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeabstraitejunit/tests/RectangleTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeobjet/Livre.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeobjet/Proprietaire.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeobjet/Voiture.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeobjet/tests/TestLivre.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/classeobjet/tests/TestProprietaireVoiture.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/collections/Cours.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/collections/Etudiant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/collections/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/collections/TestArrayList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/collections/tests/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/UtilisationDesFiles.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/File.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/FileVideException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/FileArrayListImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/FileListeChaineeImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/FilePleineException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/FileTableauImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/tests/Etudiant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/tests/FileArrayListImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/tests/FileListeChaineeImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/tests/FileTableauImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/file/tda/impl/tests/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritage/Ordinateur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritage/Portable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritage/Table.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritage/tests/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritagepolymorhisme/Abonne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritagepolymorhisme/AbonneCable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritagepolymorhisme/AbonneIllico.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritagepolymorhisme/AbonneInternet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/heritagepolymorhisme/tests/ProgrammePrincipal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/Employe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/Entreprise.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/Etudiant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/Universite.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/impl/EntrepriseImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/impl/UniversiteImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/impl/tests/EntrepriseImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/interfaces/impl/tests/UniversiteImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/listechainee/ListeChainee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/listechainee/ListeChaineeOrdonnee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/listechainee/utiles/Etudiant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/listechainee/utiles/Noeud.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/listechainee/utiles/Personne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/pile/UtilisationDesPiles.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/pile/ValidationDesExpressions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/pile/tda/Pile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/pile/tda/PileVideException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/labos/pile/tda/impl/PileArrayListImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/revisionIntra/tda_genericite/MapArrayList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/revisionIntra/tda_genericite/Paire.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/revisionIntra/tda_genericite/TDAMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/revisionIntra/tda_genericite/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp1/adt/Catalogue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp1/adt/IndiceHorsBornesException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp1/adt/NombreCopies.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp1/adt/impl/CatalogueImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp1/adt/test/Alphabet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp1/adt/test/CatalogueImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp2/adt/Catalogue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp2/adt/NombreCopies.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp2/adt/impl/CatalogueChaineeImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp2/adt/impl/Noeud.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp2/adt/test/Alphabet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp2/adt/test/CatalogueChaineeImplTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/AffichageControleur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/AffichageVue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/AjoutModificationControleur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/AjoutModificationVue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/ChainesDeTexte.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusControleur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusVue$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusVue$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/GestionnaireInventairePneusVue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/SupprimerControleur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/interfacegraphiques/SupprimerVue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/modele/GestionnaireInventairePneus.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/inf2120/tp3/modele/Pneu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/romains/Romains.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/romains/RomanNumeral.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoursJavaUQAM/ca/uqam/romains/TextIO.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Projet_inf2015_Maven/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +217,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ContratAssuranceTypeETest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ContratAssuranceTypeETest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReclamationTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ReclamationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,10 +266,12 @@
         <option value="$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/interfacegraphiques/ChainesDeTexte.java" />
         <option value="$PROJECT_DIR$/src/ca/uqam/inf2120/tp3/modele/Pneu.java" />
         <option value="$PROJECT_DIR$/src/ca/uqam/romains/TextIO.java" />
+        <option value="$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ReclamationTest.java" />
+        <option value="$PROJECT_DIR$/../Projet_inf2015_Ant/src/org/equipe21/projetsession/EcritureFichierJsonStatistiques.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -102,7 +321,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -110,22 +328,48 @@
           <expand>
             <path>
               <item name="CoursJavaUQAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoursJavaUQAM" type="462c0819:PsiDirectoryNode" />
+              <item name="Projet_inf2015_Ant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoursJavaUQAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_inf2015_Ant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoursJavaUQAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_inf2015_Ant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="equipe21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoursJavaUQAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_inf2015_Ant" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoursJavaUQAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_inf2015_Ant" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="projetsession" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projet_inf2015_Maven" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projet_inf2015_Ant" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/LIB" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -134,6 +378,9 @@
       <recent name="C:\Users\Victor\Documents\GitHub\UQAM\CoursJavaUQAM\src\ca\uqam\inf2120" />
       <recent name="C:\Users\Victor\Documents\GitHub\UQAM\CoursJavaUQAM\src\ca\uqam\inf2120\tp2\adt" />
       <recent name="C:\Users\Victor\Documents\GitHub\UQAM\CoursJavaUQAM\src\ca\uqam\inf2120\tp1\adt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor\Documents\GitHub\UQAM\Projet_inf2015_Ant\.jacocoverage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -148,89 +395,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Romains">
+  <component name="RunManager" selected="JUnit.ReclamationAssuranceTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="GestionnaireInventairePneusVue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.uqam.inf2120.tp3.interfacegraphiques.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.uqam.inf2120.tp3.interfacegraphiques.GestionnaireInventairePneusVue" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CoursJavaUQAM" />
-      <envs />
-    </configuration>
-    <configuration name="Romains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.uqam.romains.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.uqam.romains.Romains" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CoursJavaUQAM" />
-      <envs />
-    </configuration>
-    <configuration name="Tp2Gr30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.uqam.inf1120.tps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.uqam.inf1120.tps.Tp2Gr30" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CoursJavaUQAM" />
-      <envs />
-    </configuration>
-    <configuration name="Tp3Gr30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.uqam.inf1120.tps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.uqam.inf1120.tps.Tp3Gr30" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CoursJavaUQAM" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -246,13 +417,18 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+    <configuration name="ReclamationAssuranceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.equipe21.projetsession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Projet_inf2015_Ant" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="PACKAGE_NAME" value="org.equipe21.projetsession" />
+      <option name="MAIN_CLASS_NAME" value="org.equipe21.projetsession.ReclamationAssuranceTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -266,20 +442,40 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ca.uqam.inf2120.tp3 in CoursJavaUQAM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReponseRemboursementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ca.uqam.inf2120.tp3.*" />
+          <option name="PATTERN" value="org.equipe21.projetsession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CoursJavaUQAM" />
+      <module name="Projet_inf2015_Ant" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ca.uqam.inf2120.tp3" />
+      <option name="PACKAGE_NAME" value="org.equipe21.projetsession" />
+      <option name="MAIN_CLASS_NAME" value="org.equipe21.projetsession.ReponseRemboursementTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -310,6 +506,65 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="ReclamationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.equipe21.projetsession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Projet_inf2015_Ant" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="org.equipe21.projetsession" />
+      <option name="MAIN_CLASS_NAME" value="org.equipe21.projetsession.ReclamationTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Projet_inf2015_Ant" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -337,6 +592,38 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="org.equipe21.projetsession" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.equipe21.projetsession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Projet_inf2015_Ant" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="org.equipe21.projetsession" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -344,19 +631,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Tp2Gr30" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Tp3Gr30" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ca.uqam.inf2120.tp3 in CoursJavaUQAM" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GestionnaireInventairePneusVue" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Romains" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.ReclamationTest" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.org.equipe21.projetsession" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ReponseRemboursementTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ReclamationAssuranceTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Romains" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GestionnaireInventairePneusVue" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ca.uqam.inf2120.tp3 in CoursJavaUQAM" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Tp3Gr30" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Tp2Gr30" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ReclamationAssuranceTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ReponseRemboursementTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.ReclamationTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.org.equipe21.projetsession" />
       </list>
     </recent_temporary>
   </component>
@@ -381,15 +668,24 @@
     <history-entry file="CalculatriceTest_testDiviserParZero - 2018.02.18 at 13h 03m 18s.xml">
       <configuration name="CalculatriceTest.testDiviserParZero" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReclamationAssuranceTest - 2018.02.19 at 20h 27m 02s.xml">
+      <configuration name="ReclamationAssuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="_default__(2) - 2018.02.18 at 18h 36m 18s.xml">
+      <configuration name="&lt;default&gt; (2)" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="ca_uqam_inf2120_tp3_in_CoursJavaUQAM - 2018.02.18 at 15h 37m 59s.xml">
       <configuration name="ca.uqam.inf2120.tp3 in CoursJavaUQAM" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ca_uqam_inf2120_tp3_in_CoursJavaUQAM - 2018.02.18 at 15h 38m 13s.xml">
       <configuration name="ca.uqam.inf2120.tp3 in CoursJavaUQAM" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="org_equipe21_projetsession - 2018.02.18 at 18h 38m 00s.xml">
+      <configuration name="org.equipe21.projetsession" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -415,7 +711,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14263566" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34263566" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -428,11 +724,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ReclamationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/src/org/equipe21/projetsession/EcritureFichierJsonStatistiques.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ContratAssuranceTypeETest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/uqam/romains/TextIO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -448,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -456,10 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#1529#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,10 +1000,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#1529#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,7 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +1021,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/DollarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/json-lib-2.4-jdk15.jar!/net/sf/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/src/org/equipe21/projetsession/EcritureFichierJsonStatistiques.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Maven/nbactions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet_inf2015_Maven/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Maven/src/main/java/org/equipe21/projetsession/ConvertisseurJsonEnDemandeReclamation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Maven/src/test/java/org/equipe21/projetsession/DemandeReclamationMensuelleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ContratAssuranceTypeETest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Projet_inf2015_Ant/test/org/equipe21/projetsession/ReclamationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -745,7 +1117,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit-4.0</last-edited>
+          <last-edited>UQAM</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -769,11 +1141,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CoursJavaUQAM</last-edited>
+          <last-edited>Projet_inf2015_Ant</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -793,7 +1166,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>LIB</last-edited>
+          <last-edited>Refund-1.0-jar-with-dependencies</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/lib/commons-collections-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

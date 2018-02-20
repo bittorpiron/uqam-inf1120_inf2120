@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoursJavaUQAM.iml" filepath="$PROJECT_DIR$/CoursJavaUQAM.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Projet_inf2015_Ant/Projet_inf2015_Ant.iml" filepath="$PROJECT_DIR$/../Projet_inf2015_Ant/Projet_inf2015_Ant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Projet_inf2015_Maven/Projet_inf2015_Maven.iml" filepath="$PROJECT_DIR$/../Projet_inf2015_Maven/Projet_inf2015_Maven.iml" />
     </modules>
   </component>
 </project>

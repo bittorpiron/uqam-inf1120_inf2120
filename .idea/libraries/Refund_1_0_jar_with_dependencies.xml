@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Refund-1.0-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Projet_inf2015_Ant/target/Refund-1.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
